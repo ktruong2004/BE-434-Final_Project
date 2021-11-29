@@ -55,7 +55,7 @@ def main():
 
 # --------------------------------------------------
 def puzzle(a):
-    """Find cell to fill"""
+    """Print size for the puzzle"""
 
     M = 9
     for i in range(M):
